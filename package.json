@@ -1,0 +1,24 @@
+{
+  "name": "pixel-test",
+  "version": "1.0.3",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixel-tiger/PixelTest.git"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.1",
+    "new-npm-testnet-tea": "1.0.2",
+    "npm-for-app-tea": "1.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixel-tiger/PixelTest/issues"
+  },
+  "homepage": "https://github.com/pixel-tiger/PixelTest#readme"
+}
